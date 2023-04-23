@@ -31,6 +31,7 @@ $mahasiswa = $rows;
   <title>Daftar Mahasiswa</title>
   <style>
     body {
+      font-family: Georgia, 'Times New Roman', Times, serif;
       background-image: url(img/bgindex.jpg);
       background-size: cover;
       text-align: center;
